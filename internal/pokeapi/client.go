@@ -3,7 +3,7 @@ package pokeapi
 import (
 	"net/http"
 	"time"
-	"github.com/sezuel/pokedex/internal/pokeapi"
+	"github.com/sezuel/pokedex/internal/pokecache"
 )
 
 // Client -
